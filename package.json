@@ -1,0 +1,16 @@
+{
+  "name": "app-gestion-productos",
+  "version": "1.0.0",
+  "description": "Aplicación de gestión de productos",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node --watch index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
